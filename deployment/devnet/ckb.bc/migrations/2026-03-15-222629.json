@@ -1,0 +1,12 @@
+{
+  "cell_recipes": [
+    {
+      "name": "ckb.bc",
+      "tx_hash": "0xa00fde3467d3197fffcfefbcf3b941e624fa5c583fc67e44bdb1a88ea7096456",
+      "index": 0,
+      "occupied_capacity": 129700000000,
+      "data_hash": "0xb3325c37f81d1a88b75d103e19dbbcb5291f3ec91808401b5d110d63aa9301cb"
+    }
+  ],
+  "dep_group_recipes": []
+}

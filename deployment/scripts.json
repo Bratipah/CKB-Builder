@@ -1,0 +1,21 @@
+{
+  "devnet": {
+    "README.md": {
+      "codeHash": "0xcf88963d51d309c3bbac4bff31928e4c607e98f472bb045225e1aad7e28bbb29",
+      "hashType": "data2",
+      "cellDeps": [
+        {
+          "cellDep": {
+            "outPoint": {
+              "txHash": "0x86c1a494b6f7df155dff387709fb28a5df83ad7035c02bbcff6fb609f935d991",
+              "index": 0
+            },
+            "depType": "code"
+          }
+        }
+      ]
+    }
+  },
+  "testnet": {},
+  "mainnet": {}
+}

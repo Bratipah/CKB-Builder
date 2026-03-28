@@ -1,0 +1,24 @@
+{
+  "name": "spore-first-example",
+  "version": "0.2.0",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html --dist-dir dist --public-url ./",
+    "lint": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@ckb-ccc/core": "^1.5.3",
+    "@ckb-lumos/lumos": "^0.22.0-next.4",
+    "@spore-sdk/core": "^0.2.1",
+    "parcel": "^2.16.4",
+    "react-router-dom": "^7.13.2"
+  },
+  "devDependencies": {
+    "ts-node": "^10.9.0",
+    "typescript": "^5.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

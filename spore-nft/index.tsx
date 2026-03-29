@@ -18,7 +18,7 @@ root.render(<App />);
 export function App() {
   // default value: first account privkey from offckb
   const [privKey, setPrivKey] = useState(
-    "0xf4a1fc19468b51ba9d1f0f5441fa3f4d91e625b2af105e1e37cc54bf9b19c0a1"
+    "0x6109170b275a09ad54877b82f7d9930f88cab5717d484fb4741ae9d1dd078cd6"
   );
   const [fromAddr, setFromAddr] = useState("");
   const [fromLock, setFromLock] = useState<Script>();

@@ -1,0 +1,15 @@
+{
+  "name": "xudt-from-scratch",
+  "module": "index.ts",
+  "type": "module",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@ckb-lumos/lumos": "^0.0.0-canary-b1ded08-20240910111300"
+  }
+}

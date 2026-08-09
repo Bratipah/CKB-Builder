@@ -33,7 +33,8 @@
     - To be able to do rollbacks in case of the agent hallucinations
 
 
-    **Week Ending:** 1-7-2026 -30-07-2026
+##**Week Ending:** 1-7-2026 -30-07-2026##
+
 The progress from above and the learning we had of making micropaymants in the agent led us to enable fibre protocol on the agent to be able to make payments in the agent to be able to handle channel management and track if there are channels that are open to do transactions
     
 - Non-technical users can perform complex CKB operations (tracking, payments, minting) without learning blockchain technicalities

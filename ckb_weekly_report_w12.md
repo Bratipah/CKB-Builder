@@ -4,7 +4,7 @@
 
 **Week Ending:** 16-24-2026 -28-06-2026
 
-### Courses Completedand usage of CK
+### Courses Completed and usage of CK
 
 - Completed modules of CKB Learning Academy 
 - Courses consist of:-
@@ -31,6 +31,22 @@
     - Being able to support paraphases without storing them in plain text 
     - the possibilty of wallet data to be sharded by scaling horizontally
     - To be able to do rollbacks in case of the agent hallucinations
+
+
+    **Week Ending:** 1-7-2026 -30-07-2026
+The progress from above and the learning we had of making micropaymants in the agent led us to enable fibre protocol on the agent to be able to make payments in the agent to be able to handle channel management and track if there are channels that are open to do transactions
+    
+- Non-technical users can perform complex CKB operations (tracking, payments, minting) without learning blockchain technicalities
+
+- Businesses can deploy AI agents that manage assets programmatically without catastrophic financial risk
+
+- Agents can handle high-volume transactions simultaneously with safety guarantees
+
+- Agents can be able to check both the cell input and output group and determine if an agent can pay using a canpay() function then send notifications and have diagnostics of the agent payment engine process
+
+- Agents can also be able to set saftey operations like being able to set speninding limits to enable the agent can be able to follow a budget
+
+  
     
 
 

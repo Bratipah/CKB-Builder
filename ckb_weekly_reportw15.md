@@ -29,6 +29,10 @@
     - It was quite difficult being able to switch the agents it functioning agents to becoming usecase referred agent and ensure each wallet's safety rails or worlflow do not intermarry for a start. for example a payroll agent to be able to parallel transactions and ensuring the parallel transctions will stop the maximum amount & transactions at the right time
     - Having a soft kill switch warning to the audit log if the wallet encouters errors that could threaten transcations not being successfull like insufiicient cells capacity among others . We still need to pressure test and ensure that this doean't leak to give the agents a leverage
 
+![Transaction Confirmation Stages](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-15%2000-56-15.png)
+![Agent onchain proof transcation](http://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-05-55.png)
+![Agent Specialization](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-52-15.png)
+
 
     
     

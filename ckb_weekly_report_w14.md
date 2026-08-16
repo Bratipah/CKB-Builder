@@ -2,7 +2,7 @@
 
 **Name:** Alienate Bratipah
 
-**Week Ending:** 16-24-2026 -28-06-2026
+**Week Ending:** 3-08-2026 - 10-08-2026
 
 ### Courses Completed and usage of CK
 
@@ -30,7 +30,7 @@
     - Ensuring the safety checks don't cause latency on the whole operation
     - Being able to support paraphases without storing them in plain text 
     - the possibilty of wallet data to be sharded by scaling horizontally
-    - To be able to do rollbacks in case of the agent hallucinations
+    - To be able to do rollbacks in case of the agent hallucinations 
 
     
 

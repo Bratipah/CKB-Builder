@@ -30,7 +30,7 @@
     - Having a soft kill switch warning to the audit log if the wallet encouters errors that could threaten transcations not being successfull like insufiicient cells capacity among others . We still need to pressure test and ensure that this doean't leak to give the agents a leverage
 
 ![Transaction Confirmation Stages](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-15%2000-56-15.png)
-![Agent onchain proof transcation](http://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-05-55.png)
+![Agent onchain proof transcation](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-05-55.png)
 ![Agent Specialization](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-52-15.png)
 
 

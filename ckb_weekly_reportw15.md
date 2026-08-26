@@ -18,7 +18,7 @@
 - The progress from last week building the Fiber side of the wallet transcations
     - Ai agent can be able to be governed using human approval where necessary like signing transcations creating wallets using external wallets like joy ID or OKX Or create testnet wallets by using private key obraining a public key and be able to sign transcations depending on the safety rails. The wallet can choose the wallet network depensing on the uecase of the wallet & the generation of the wallets done by the human approval. 
 
-    - Did a through tests case of safety rails if they are updating the rails onchain or offchain. They are doing this onchain for example putting a spending limit it isn't done nchain meaning it doesnt't affect the onchain cell state rather it ensures that the transaction isn't pending from a user perscpective. The application stores the address and only the public key information and not the private key. 
+    - Did a through tests case of safety rails if they are updating the rails onchain or offchain. They are doing this onchain for example putting a spending limit it isn't done onchain meaning it doesnt't affect the onchain cell state rather it ensures that the transaction isn't pending from a user perscpective. The application stores the address and only the public key information and not the private key. 
     - Some fo safety rules tested include a max amount per transcation and maximum amount spent per day and what happens when differen transcations re done under multiple agents paralleism each not conflicting their own safety rails or line of thought.Before the agent could bypass spending controls by raw signing and also do cross network addresses without proof there's interoperability infra available which we have been able to harness
     - Have prechosen whitelist address working and vice versa which is very 
     - The kill switch can only be called or accessed through human approval & not agent request.
@@ -31,7 +31,6 @@
 
 ![Transaction Confirmation Stages](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-15%2000-56-15.png)
 ![Agent onchain proof transcation](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-05-55.png)
-![Agent Specialization](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-52-15.png)
 
 
     

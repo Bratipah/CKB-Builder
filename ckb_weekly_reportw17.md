@@ -21,6 +21,8 @@
 - Updated that the agents don't be able need to use joyID 
 -Use alerts to inform on any channel disputes during fiber settlement or any failed payments accompanies by logs
 - Use of typehash rather than type id to prevent spoofing on code cells and also agent state cells
+- Ensure A2A layer is done offchain for better negotiation & discovery among agents mirroring MCP & A2A before any transcation is perfomed with the help of CCC
+
 
 
 
@@ -29,6 +31,7 @@
     - How agents can be able to access fiber nodes publicly
     - Agents should be able to hold an invoice and be able to settle the payment through an LSP which i'm not aware of one in CKB maybe have this orcherstartor be an LSP aggregator later on 
     - Find a way to ensure my A2A adapters can be plugged in into parojects like fiber402 to minimize building everything from scratch
+    - Solve result ref verification to be onchain rather than it been offchain
 
 
 ![Agent Specialization](https://github.com/Bratipah/CKB-Builder/blob/main/public/assets/Screenshot%20from%202026-08-17%2000-52-15.png)
